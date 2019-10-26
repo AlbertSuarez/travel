@@ -11,6 +11,10 @@
 
 3D and interactive Globe view summarizing my historic flights thanks to [JetLovers](https://www.jetlovers.com/).
 
+## Preview
+
+![Preview](assets/img/preview.gif)
+
 ## Authors
 
 - [Albert Suàrez](https://github.com/AlbertSuarez)
